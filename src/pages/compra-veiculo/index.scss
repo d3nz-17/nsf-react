@@ -1,0 +1,102 @@
+.pag-compra{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    background-color:  #F5F6FA;
+
+    
+    .card{
+
+        padding: 50px;
+
+
+    }
+
+    .dados {
+
+        padding: 25px;
+
+
+
+
+    }
+
+    .vt{
+
+        display: flex;
+        flex-direction: column;
+
+
+
+
+    }
+
+
+    .card{
+
+
+        width: 659px;
+
+        display: flex;
+        flex-direction: row;
+
+
+
+
+    }
+
+
+    .carro{
+
+        width: 298px;
+        background-color: #cacaca;
+
+
+
+
+    }
+
+    .carro img {
+
+        padding: 50px;
+
+
+
+    }
+
+
+    .pag-compra h3{
+    
+        text-align: center;
+    
+        
+        
+        
+    }
+    .parc-juros{
+    
+        display: flex;
+        flex-direction: row;
+    
+    
+    
+    
+    }
+
+    .res{
+
+        display: flex;
+        flex-direction:column;
+
+
+
+    }
+
+
+
+}
+
+

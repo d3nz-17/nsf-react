@@ -1,0 +1,139 @@
+.pag-sorvetes{
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #F5F6FA;
+
+
+    .card-formulario{
+
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+
+
+    }
+
+    .card-formulario input {
+
+
+        border: 1px solid #DFDFDF;
+        border-radius: 3px;
+
+        margin-left: 5px;
+        margin-right: 5px;
+
+        padding: 10px;
+
+
+
+    }
+
+    .card-formulario button{
+
+        background-color: #66344A;
+        border: none;
+        color: white;
+
+        border-radius: 3px;
+        padding: 10px;
+
+        margin-left: 5px;
+
+
+
+    }
+
+    .card-preco{
+
+
+        border: 1px solid #DFDFDF;
+        padding: 10px;
+
+
+
+
+    }
+
+
+
+    .card-sorvetes{
+
+
+        margin-top: 55px;
+        margin-bottom: 55px;
+        background-color: white;
+
+
+
+    }
+
+    .card-sorvetes p {
+
+
+        margin-left: 20px;
+
+
+
+    }
+
+
+
+    
+
+    .card-logo{
+
+        background-color: #66344A;
+        width: 133px;
+
+        font-size: 20px;
+
+        padding: 8px;
+        border-radius: 3px;
+
+        color: white;
+
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        position: relative;
+
+        bottom: 47px;
+        left: 15px;
+
+
+
+
+
+    }
+
+    .card-info{
+
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+
+        margin-left: 25px;
+        margin-right: 25px;
+
+
+
+    }
+
+    .card-elementos{
+
+        margin-bottom: 65px;
+
+
+
+
+    }
+
+
+
+
+}
