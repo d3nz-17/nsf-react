@@ -1,0 +1,53 @@
+.pesquisa {
+
+    width: 423px;
+    flex-shrink: 0;
+    border-radius: 3px;
+    border: 1px solid #C5BC4D;
+    box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.30);
+
+
+
+
+
+
+}
+
+.pesquisa div {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+
+
+}
+
+.pesquisa input {
+
+
+    border: none;
+
+
+}
+
+.butao{
+
+
+background-color: transparent;
+border: 1px solid;
+
+
+
+}
+
+.campos{
+
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+
+
+}
